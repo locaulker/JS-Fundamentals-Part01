@@ -5,6 +5,7 @@
 // let continent = "North America"
 // let population = "350M"
 
+<<<<<<< HEAD
 // console.log(country, continent, population)
 
 // Coding Challenge 1
@@ -26,3 +27,12 @@ if (bmiMark > bmiJohn) {
 }
 
 console.log(bmiMark, bmiJohn)
+=======
+console.log(country, continent, population)
+
+let x = 5
+x += 10 // x = x + 5
+console.log(x)
+//x -= 10 // x = x - 10
+// console.log(x)
+>>>>>>> master
